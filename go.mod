@@ -1,4 +1,4 @@
-module github.com/plandem/xlsx
+module github.com/miscoler/xlsx
 
 go 1.12
 
