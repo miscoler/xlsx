@@ -5,7 +5,7 @@
 package styles
 
 import (
-	"github.com/plandem/xlsx/internal/ml"
+	"github.com/miscoler/xlsx/internal/ml"
 )
 
 //DirectStyleID is alias of original ml.DirectStyleID type to:

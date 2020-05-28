@@ -6,8 +6,8 @@ package validator_test
 
 import (
 	"fmt"
-	"github.com/plandem/xlsx/internal"
-	"github.com/plandem/xlsx/internal/validator"
+	"github.com/miscoler/xlsx/internal"
+	"github.com/miscoler/xlsx/internal/validator"
 	"github.com/stretchr/testify/assert"
 	"strings"
 	"testing"

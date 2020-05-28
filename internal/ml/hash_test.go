@@ -5,10 +5,10 @@
 package ml_test
 
 import (
+	"github.com/miscoler/xlsx/format/styles"
+	"github.com/miscoler/xlsx/internal/ml"
+	"github.com/miscoler/xlsx/internal/ml/primitives"
 	"github.com/plandem/ooxml/index"
-	"github.com/plandem/xlsx/format/styles"
-	"github.com/plandem/xlsx/internal/ml"
-	"github.com/plandem/xlsx/internal/ml/primitives"
 	"github.com/stretchr/testify/require"
 	"testing"
 )

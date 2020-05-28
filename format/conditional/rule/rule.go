@@ -5,8 +5,8 @@
 package rule
 
 import (
-	"github.com/plandem/xlsx/format/styles"
-	"github.com/plandem/xlsx/internal/ml"
+	"github.com/miscoler/xlsx/format/styles"
+	"github.com/miscoler/xlsx/internal/ml"
 )
 
 type validator interface {

@@ -5,7 +5,7 @@
 package types
 
 import (
-	"github.com/plandem/xlsx/internal/ml/primitives"
+	"github.com/miscoler/xlsx/internal/ml/primitives"
 )
 
 //CellType is alias of original primitives.CellType type to:

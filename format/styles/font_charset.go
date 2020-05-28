@@ -5,7 +5,7 @@
 package styles
 
 import (
-	"github.com/plandem/xlsx/internal/ml/primitives"
+	"github.com/miscoler/xlsx/internal/ml/primitives"
 )
 
 //FontCharsetType is alias of original primitives.FontCharsetType type because more can be used by system and to:

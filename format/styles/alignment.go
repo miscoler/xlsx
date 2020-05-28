@@ -5,7 +5,7 @@
 package styles
 
 import (
-	"github.com/plandem/xlsx/internal/ml/primitives"
+	"github.com/miscoler/xlsx/internal/ml/primitives"
 )
 
 type alignmentOption byte

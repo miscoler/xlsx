@@ -1,9 +1,9 @@
 package code
 
 import (
-	"github.com/plandem/xlsx"
-	"github.com/plandem/xlsx/format/styles"
-	"github.com/plandem/xlsx/types/hyperlink"
+	"github.com/miscoler/xlsx"
+	"github.com/miscoler/xlsx/format/styles"
+	"github.com/miscoler/xlsx/types/hyperlink"
 )
 
 func Example_hyperlinks() {

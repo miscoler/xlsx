@@ -5,8 +5,8 @@
 package xlsx_test
 
 import (
-	"github.com/plandem/xlsx"
-	"github.com/plandem/xlsx/types/options/sheet"
+	"github.com/miscoler/xlsx"
+	"github.com/miscoler/xlsx/types/options/sheet"
 	"github.com/stretchr/testify/require"
 	"testing"
 )

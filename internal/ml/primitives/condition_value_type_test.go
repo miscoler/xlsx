@@ -7,8 +7,8 @@ package primitives_test
 import (
 	"encoding/xml"
 	"fmt"
-	"github.com/plandem/xlsx/format/conditional/rule"
-	"github.com/plandem/xlsx/internal/ml/primitives"
+	"github.com/miscoler/xlsx/format/conditional/rule"
+	"github.com/miscoler/xlsx/internal/ml/primitives"
 	"github.com/stretchr/testify/require"
 	"testing"
 )

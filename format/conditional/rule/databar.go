@@ -6,9 +6,9 @@ package rule
 
 import (
 	"fmt"
-	"github.com/plandem/xlsx/internal/color"
-	"github.com/plandem/xlsx/internal/ml"
-	"github.com/plandem/xlsx/internal/ml/primitives"
+	"github.com/miscoler/xlsx/internal/color"
+	"github.com/miscoler/xlsx/internal/ml"
+	"github.com/miscoler/xlsx/internal/ml/primitives"
 )
 
 type dataBarRule struct {

@@ -20,7 +20,7 @@ module.exports = {
         nav: [
             {text: 'Home', link: '/'},
             {text: 'Guide', link: '/guide/'},
-            {text: 'API', link: 'https://godoc.org/github.com/plandem/xlsx'}
+            {text: 'API', link: 'https://godoc.org/github.com/plandem/ooxml'}
         ],
         sidebar: [
             {

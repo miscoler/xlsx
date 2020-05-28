@@ -7,8 +7,8 @@ package primitives_test
 import (
 	"encoding/xml"
 	"fmt"
-	"github.com/plandem/xlsx/internal/ml/primitives"
-	"github.com/plandem/xlsx/types/options/sheet"
+	"github.com/miscoler/xlsx/internal/ml/primitives"
+	"github.com/miscoler/xlsx/types/options/sheet"
 	"github.com/stretchr/testify/require"
 	"testing"
 )

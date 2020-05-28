@@ -16,7 +16,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/plandem/xlsx/types"
+	"github.com/plandem/ooxml/types"
 )
 
 func main() {
@@ -32,7 +32,7 @@ func main() {
 
 ```
 
-Check [Api Doc](https://godoc.org/github.com/plandem/xlsx/types) for more information about types package
+Check [Api Doc](https://godoc.org/github.com/plandem/ooxml/types) for more information about types package
 
 ### Sheet
 ```go

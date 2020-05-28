@@ -6,10 +6,10 @@ package xlsx
 
 import (
 	"fmt"
-	"github.com/plandem/xlsx/format/styles"
-	"github.com/plandem/xlsx/internal"
-	"github.com/plandem/xlsx/internal/ml"
-	"github.com/plandem/xlsx/internal/ml/primitives"
+	"github.com/miscoler/xlsx/format/styles"
+	"github.com/miscoler/xlsx/internal"
+	"github.com/miscoler/xlsx/internal/ml"
+	"github.com/miscoler/xlsx/internal/ml/primitives"
 	"reflect"
 
 	// to link unexported
@@ -17,7 +17,7 @@ import (
 )
 
 //
-////go:linkname toRichFont github.com/plandem/xlsx/format/styles.toRichFont
+////go:linkname toRichFont github.com/miscoler/xlsx/format/styles.toRichFont
 //func toRichFont(f *styles.Info) *ml.RichFont
 
 //nolint

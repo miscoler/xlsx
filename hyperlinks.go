@@ -7,22 +7,22 @@ package xlsx
 import (
 	"errors"
 	"fmt"
+	"github.com/miscoler/xlsx/format/styles"
+	"github.com/miscoler/xlsx/internal"
+	"github.com/miscoler/xlsx/internal/ml"
+	"github.com/miscoler/xlsx/types"
+	"github.com/miscoler/xlsx/types/hyperlink"
 	sharedML "github.com/plandem/ooxml/ml"
-	"github.com/plandem/xlsx/format/styles"
-	"github.com/plandem/xlsx/internal"
-	"github.com/plandem/xlsx/internal/ml"
-	"github.com/plandem/xlsx/types"
-	"github.com/plandem/xlsx/types/hyperlink"
 
 	// to link unexported
 	_ "unsafe"
 )
 
 //
-////go:linkname fromHyperlinkInfo github.com/plandem/xlsx/types/hyperlink.from
+////go:linkname fromHyperlinkInfo github.com/miscoler/xlsx/types/hyperlink.from
 //func fromHyperlinkInfo(info *hyperlink.Info) (hyperlink *ml.Hyperlink, format interface{}, err error)
 //
-////go:linkname toHyperlinkInfo github.com/plandem/xlsx/types/hyperlink.to
+////go:linkname toHyperlinkInfo github.com/miscoler/xlsx/types/hyperlink.to
 //func toHyperlinkInfo(hyperlink *ml.Hyperlink, targetInfo string, styleID styles.DirectStyleID) *hyperlink.Info
 
 type hyperlinks struct {

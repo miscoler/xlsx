@@ -5,11 +5,11 @@
 package xlsx
 
 import (
+	"github.com/miscoler/xlsx/internal"
+	"github.com/miscoler/xlsx/internal/ml"
+	"github.com/miscoler/xlsx/internal/ml/primitives"
 	"github.com/plandem/ooxml"
 	"github.com/plandem/ooxml/index"
-	"github.com/plandem/xlsx/internal"
-	"github.com/plandem/xlsx/internal/ml"
-	"github.com/plandem/xlsx/internal/ml/primitives"
 )
 
 //sharedStrings is a higher level object that wraps ml.SharedStrings with functionality

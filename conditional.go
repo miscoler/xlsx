@@ -5,9 +5,9 @@
 package xlsx
 
 import (
-	"github.com/plandem/xlsx/format/conditional"
-	"github.com/plandem/xlsx/internal/ml"
-	"github.com/plandem/xlsx/types"
+	"github.com/miscoler/xlsx/format/conditional"
+	"github.com/miscoler/xlsx/internal/ml"
+	"github.com/miscoler/xlsx/types"
 	"strings"
 
 	// to link unexported
@@ -15,7 +15,7 @@ import (
 )
 
 //
-////go:linkname fromConditionalFormat github.com/plandem/xlsx/format/conditional.from
+////go:linkname fromConditionalFormat github.com/miscoler/xlsx/format/conditional.from
 //func fromConditionalFormat(f *conditional.Info) (*ml.ConditionalFormatting, []*styles.Info)
 
 type conditionals struct {

@@ -6,12 +6,12 @@ package xlsx
 
 import (
 	"fmt"
+	"github.com/miscoler/xlsx/internal"
+	"github.com/miscoler/xlsx/internal/ml"
+	"github.com/miscoler/xlsx/types"
+	"github.com/miscoler/xlsx/types/comment"
 	"github.com/plandem/ooxml"
 	"github.com/plandem/ooxml/index"
-	"github.com/plandem/xlsx/internal"
-	"github.com/plandem/xlsx/internal/ml"
-	"github.com/plandem/xlsx/types"
-	"github.com/plandem/xlsx/types/comment"
 	"strings"
 )
 

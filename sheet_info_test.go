@@ -5,9 +5,9 @@
 package xlsx
 
 import (
-	"github.com/plandem/xlsx/internal/ml"
-	"github.com/plandem/xlsx/internal/ml/primitives"
-	"github.com/plandem/xlsx/types/options/sheet"
+	"github.com/miscoler/xlsx/internal/ml"
+	"github.com/miscoler/xlsx/internal/ml/primitives"
+	"github.com/miscoler/xlsx/types/options/sheet"
 	"github.com/stretchr/testify/require"
 	"testing"
 )

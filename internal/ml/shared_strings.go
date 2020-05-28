@@ -6,8 +6,8 @@ package ml
 
 import (
 	"encoding/xml"
+	"github.com/miscoler/xlsx/internal/ml/primitives"
 	"github.com/plandem/ooxml/ml"
-	"github.com/plandem/xlsx/internal/ml/primitives"
 )
 
 //SharedStrings is a direct mapping of XSD CT_Sst

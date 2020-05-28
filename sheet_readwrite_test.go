@@ -5,7 +5,7 @@
 package xlsx_test
 
 import (
-	"github.com/plandem/xlsx"
+	"github.com/miscoler/xlsx"
 	"github.com/stretchr/testify/require"
 	"testing"
 )

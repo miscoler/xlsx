@@ -5,7 +5,7 @@
 package xlsx
 
 import (
-	"github.com/plandem/xlsx/internal/number_format/convert"
+	"github.com/miscoler/xlsx/internal/number_format/convert"
 	"github.com/stretchr/testify/require"
 	"testing"
 	"time"

@@ -5,7 +5,7 @@
 package validator
 
 import (
-	"github.com/plandem/xlsx/internal"
+	"github.com/miscoler/xlsx/internal"
 	"net/url"
 	"regexp"
 	"unicode/utf8"

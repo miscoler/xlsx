@@ -5,8 +5,8 @@
 package xlsx
 
 import (
-	"github.com/plandem/xlsx/format/styles"
-	"github.com/plandem/xlsx/types/options/column"
+	"github.com/miscoler/xlsx/format/styles"
+	"github.com/miscoler/xlsx/types/options/column"
 	"github.com/stretchr/testify/require"
 	"testing"
 )

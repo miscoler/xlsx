@@ -5,7 +5,7 @@
 package options
 
 import (
-	"github.com/plandem/xlsx/internal/ml/primitives"
+	"github.com/miscoler/xlsx/internal/ml/primitives"
 )
 
 //Info hold advanced settings of sheet.

@@ -5,9 +5,9 @@
 package xlsx
 
 import (
+	"github.com/miscoler/xlsx/internal"
+	"github.com/miscoler/xlsx/internal/ml"
 	"github.com/plandem/ooxml"
-	"github.com/plandem/xlsx/internal"
-	"github.com/plandem/xlsx/internal/ml"
 )
 
 //workbook is a higher level object that wraps ml.Workbook with functionality

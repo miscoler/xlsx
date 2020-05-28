@@ -7,11 +7,11 @@ package xlsx
 import (
 	"encoding/xml"
 	"fmt"
+	"github.com/miscoler/xlsx/format/conditional"
+	"github.com/miscoler/xlsx/internal/ml"
+	"github.com/miscoler/xlsx/types"
+	"github.com/miscoler/xlsx/types/options/sheet"
 	"github.com/plandem/ooxml"
-	"github.com/plandem/xlsx/format/conditional"
-	"github.com/plandem/xlsx/internal/ml"
-	"github.com/plandem/xlsx/types"
-	"github.com/plandem/xlsx/types/options/sheet"
 	"math"
 )
 

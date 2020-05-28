@@ -5,8 +5,8 @@
 package styles
 
 import (
-	"github.com/plandem/xlsx/internal/color"
-	"github.com/plandem/xlsx/internal/ml/primitives"
+	"github.com/miscoler/xlsx/internal/color"
+	"github.com/miscoler/xlsx/internal/ml/primitives"
 )
 
 type borderTopSegmentOption byte

@@ -5,7 +5,7 @@
 package styles
 
 import (
-	"github.com/plandem/xlsx/internal/number_format"
+	"github.com/miscoler/xlsx/internal/number_format"
 )
 
 //NumberFormat is option to update Info with provided custom format of number, but respecting built-in number formats

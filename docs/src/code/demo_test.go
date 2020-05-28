@@ -1,10 +1,10 @@
 package code
 
 import (
-	"github.com/plandem/xlsx"
-	"github.com/plandem/xlsx/format/conditional"
-	"github.com/plandem/xlsx/format/conditional/rule"
-	"github.com/plandem/xlsx/format/styles"
+	"github.com/miscoler/xlsx"
+	"github.com/miscoler/xlsx/format/conditional"
+	"github.com/miscoler/xlsx/format/conditional/rule"
+	"github.com/miscoler/xlsx/format/styles"
 )
 
 func Example() {

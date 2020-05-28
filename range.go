@@ -5,8 +5,8 @@
 package xlsx
 
 import (
-	"github.com/plandem/xlsx/format/styles"
-	"github.com/plandem/xlsx/types"
+	"github.com/miscoler/xlsx/format/styles"
+	"github.com/miscoler/xlsx/types"
 )
 
 //Range is a object that provides some functionality for cells inside of range. E.g.: A1:D12

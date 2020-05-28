@@ -5,7 +5,7 @@
 package xlsx
 
 import (
-	"github.com/plandem/xlsx/internal/ml"
+	"github.com/miscoler/xlsx/internal/ml"
 )
 
 type columns struct {

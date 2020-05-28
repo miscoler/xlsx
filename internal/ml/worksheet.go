@@ -6,8 +6,8 @@ package ml
 
 import (
 	"encoding/xml"
+	"github.com/miscoler/xlsx/internal/ml/primitives"
 	"github.com/plandem/ooxml/ml"
-	"github.com/plandem/xlsx/internal/ml/primitives"
 )
 
 //Formula is a direct mapping of XSD ST_Formula

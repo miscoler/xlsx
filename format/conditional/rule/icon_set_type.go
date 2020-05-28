@@ -5,7 +5,7 @@
 package rule
 
 import (
-	"github.com/plandem/xlsx/internal/ml/primitives"
+	"github.com/miscoler/xlsx/internal/ml/primitives"
 )
 
 //List of all possible values for IconSetType

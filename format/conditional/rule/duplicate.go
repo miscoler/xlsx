@@ -5,9 +5,9 @@
 package rule
 
 import (
-	"github.com/plandem/xlsx/format/styles"
-	"github.com/plandem/xlsx/internal/ml"
-	"github.com/plandem/xlsx/internal/ml/primitives"
+	"github.com/miscoler/xlsx/format/styles"
+	"github.com/miscoler/xlsx/internal/ml"
+	"github.com/miscoler/xlsx/internal/ml/primitives"
 )
 
 type duplicateRule struct {

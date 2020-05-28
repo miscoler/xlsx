@@ -8,17 +8,17 @@ import (
 	"github.com/plandem/ooxml"
 
 	//init enums for marshal/unmarshal
-	_ "github.com/plandem/xlsx/format/conditional"
-	_ "github.com/plandem/xlsx/format/conditional/rule"
-	_ "github.com/plandem/xlsx/format/styles"
-	_ "github.com/plandem/xlsx/internal/ml"
-	_ "github.com/plandem/xlsx/internal/ml/primitives"
-	_ "github.com/plandem/xlsx/types"
-	_ "github.com/plandem/xlsx/types/comment"
-	_ "github.com/plandem/xlsx/types/hyperlink"
-	_ "github.com/plandem/xlsx/types/options/column"
-	_ "github.com/plandem/xlsx/types/options/row"
-	_ "github.com/plandem/xlsx/types/options/sheet"
+	_ "github.com/miscoler/xlsx/format/conditional"
+	_ "github.com/miscoler/xlsx/format/conditional/rule"
+	_ "github.com/miscoler/xlsx/format/styles"
+	_ "github.com/miscoler/xlsx/internal/ml"
+	_ "github.com/miscoler/xlsx/internal/ml/primitives"
+	_ "github.com/miscoler/xlsx/types"
+	_ "github.com/miscoler/xlsx/types/comment"
+	_ "github.com/miscoler/xlsx/types/hyperlink"
+	_ "github.com/miscoler/xlsx/types/options/column"
+	_ "github.com/miscoler/xlsx/types/options/row"
+	_ "github.com/miscoler/xlsx/types/options/sheet"
 )
 
 //Open opens a XLSX file with name or io.Reader

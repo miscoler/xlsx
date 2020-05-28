@@ -8,8 +8,8 @@ import (
 	"archive/zip"
 	"errors"
 	"fmt"
+	"github.com/miscoler/xlsx/format/styles"
 	"github.com/plandem/ooxml"
-	"github.com/plandem/xlsx/format/styles"
 	"regexp"
 )
 

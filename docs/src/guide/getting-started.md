@@ -7,7 +7,7 @@ Xlsx2Go requires GoLang >= 1.9
 
 ### Installation
 ```
-go get github.com/plandem/xlsx
+go get github.com/plandem/ooxml
 ```
 
 ### Create a new file
@@ -17,7 +17,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/plandem/xlsx"
+	"github.com/plandem/ooxml"
 )
 
 func main() {

@@ -6,12 +6,12 @@ package hyperlink
 
 import (
 	"fmt"
+	"github.com/miscoler/xlsx/format/styles"
+	"github.com/miscoler/xlsx/internal"
+	"github.com/miscoler/xlsx/internal/ml"
+	"github.com/miscoler/xlsx/internal/validator"
+	"github.com/miscoler/xlsx/types"
 	sharedML "github.com/plandem/ooxml/ml"
-	"github.com/plandem/xlsx/format/styles"
-	"github.com/plandem/xlsx/internal"
-	"github.com/plandem/xlsx/internal/ml"
-	"github.com/plandem/xlsx/internal/validator"
-	"github.com/plandem/xlsx/types"
 	"regexp"
 	"strings"
 )

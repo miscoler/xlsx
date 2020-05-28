@@ -5,7 +5,7 @@
 package types
 
 import (
-	"github.com/plandem/xlsx/internal/ml/primitives"
+	"github.com/miscoler/xlsx/internal/ml/primitives"
 )
 
 //Bounds is alias of original primitives.Bounds type make it public.

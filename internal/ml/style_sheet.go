@@ -6,8 +6,8 @@ package ml
 
 import (
 	"encoding/xml"
+	"github.com/miscoler/xlsx/internal/ml/primitives"
 	"github.com/plandem/ooxml/ml"
-	"github.com/plandem/xlsx/internal/ml/primitives"
 )
 
 //DirectStyleID is helper alias type for ID of CT_Xf to make it easier to read/understand markup files

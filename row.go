@@ -5,9 +5,9 @@
 package xlsx
 
 import (
-	"github.com/plandem/xlsx/format/styles"
-	"github.com/plandem/xlsx/internal/ml"
-	"github.com/plandem/xlsx/types/options/row"
+	"github.com/miscoler/xlsx/format/styles"
+	"github.com/miscoler/xlsx/internal/ml"
+	"github.com/miscoler/xlsx/types/options/row"
 )
 
 //Row is a higher level object that wraps ml.Row with functionality. Inherits functionality of Range

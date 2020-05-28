@@ -6,11 +6,11 @@ package xlsx_test
 
 import (
 	"fmt"
-	"github.com/plandem/xlsx"
-	"github.com/plandem/xlsx/format/styles"
-	colOptions "github.com/plandem/xlsx/types/options/column"
-	rowOptions "github.com/plandem/xlsx/types/options/row"
-	sheetOptions "github.com/plandem/xlsx/types/options/sheet"
+	"github.com/miscoler/xlsx"
+	"github.com/miscoler/xlsx/format/styles"
+	colOptions "github.com/miscoler/xlsx/types/options/column"
+	rowOptions "github.com/miscoler/xlsx/types/options/row"
+	sheetOptions "github.com/miscoler/xlsx/types/options/sheet"
 	"log"
 	"os"
 	"strings"

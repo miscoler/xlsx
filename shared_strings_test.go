@@ -5,8 +5,8 @@
 package xlsx
 
 import (
+	"github.com/miscoler/xlsx/internal/ml"
 	"github.com/plandem/ooxml"
-	"github.com/plandem/xlsx/internal/ml"
 	"github.com/stretchr/testify/require"
 	"testing"
 )

@@ -6,7 +6,7 @@ package xlsx
 
 import (
 	"encoding/xml"
-	"github.com/plandem/xlsx/internal/ml"
+	"github.com/miscoler/xlsx/internal/ml"
 	"github.com/stretchr/testify/require"
 	"testing"
 )

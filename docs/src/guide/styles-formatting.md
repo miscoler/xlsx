@@ -49,7 +49,7 @@ The default font for cell is `Calibri` (Excel 2007+)
 <<< @/src/code/styles_font_test.go
 
 ::: note Predefined values
-Xlsx2Go defined all built-in values to use for styling. For more information, check [API documentation](https://godoc.org/github.com/plandem/xlsx/format/styles#pkg-constants)
+Xlsx2Go defined all built-in values to use for styling. For more information, check [API documentation](https://godoc.org/github.com/plandem/ooxml/format/styles#pkg-constants)
 ::: 
 
 ### Fill

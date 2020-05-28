@@ -2,7 +2,7 @@ package code
 
 import (
 	"fmt"
-	"github.com/plandem/xlsx"
+	"github.com/miscoler/xlsx"
 )
 
 func Example_readStream() {

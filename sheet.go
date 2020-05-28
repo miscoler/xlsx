@@ -5,9 +5,9 @@
 package xlsx
 
 import (
-	"github.com/plandem/xlsx/format/conditional"
-	"github.com/plandem/xlsx/types"
-	"github.com/plandem/xlsx/types/options/sheet"
+	"github.com/miscoler/xlsx/format/conditional"
+	"github.com/miscoler/xlsx/types"
+	"github.com/miscoler/xlsx/types/options/sheet"
 )
 
 const errorNotSupported = "not supported"

@@ -6,7 +6,7 @@ package xlsx_test
 
 import (
 	"bytes"
-	"github.com/plandem/xlsx"
+	"github.com/miscoler/xlsx"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 	"os"

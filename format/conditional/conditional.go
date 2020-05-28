@@ -6,17 +6,17 @@ package conditional
 
 import (
 	"fmt"
-	"github.com/plandem/xlsx/format/conditional/rule"
-	"github.com/plandem/xlsx/format/styles"
-	"github.com/plandem/xlsx/internal/ml"
-	"github.com/plandem/xlsx/internal/ml/primitives"
+	"github.com/miscoler/xlsx/format/conditional/rule"
+	"github.com/miscoler/xlsx/format/styles"
+	"github.com/miscoler/xlsx/internal/ml"
+	"github.com/miscoler/xlsx/internal/ml/primitives"
 
 	// to link unexported
 	_ "unsafe"
 )
 
 //
-////go:linkname fromRule github.com/plandem/xlsx/format/conditional/rule.fromRule
+////go:linkname fromRule github.com/miscoler/xlsx/format/conditional/rule.fromRule
 //func fromRule(info *rule.Info) (*ml.ConditionalRule, *styles.Info)
 
 //Info is objects that holds combined information about cell conditional format
